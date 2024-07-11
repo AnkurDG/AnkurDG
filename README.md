@@ -12,7 +12,7 @@
   </a>
   
   
-  
+  <!--
   <a href="https://api.daily.dev/devcards/7d96963a1da84c6baf16f4ac5b3873ed.png?r=dy3" target="_blank">
     <img
       width="300"
@@ -20,7 +20,7 @@
       src=""
     />
   </a>
- 
+ -->
  
   ## About Me:
 - 💻 Open-Source and DevOps Enthusiast!
@@ -60,7 +60,7 @@
 
 </p>
 
-  <img align="left" src="" alt="Metrics" width="500">
+ <!-- <img align="left" src="" alt="Metrics" width="500"> -->
   </div>
   
 
